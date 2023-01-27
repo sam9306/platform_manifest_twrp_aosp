@@ -1,4 +1,5 @@
 {
+<<<<<<< Updated upstream
     "terminal.explorerKind": "external",
     "python.testing.unittestArgs": [
         "-v",
@@ -9,4 +10,7 @@
     ],
     "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": true
+=======
+    "window.commandCenter": true
+>>>>>>> Stashed changes
 }
