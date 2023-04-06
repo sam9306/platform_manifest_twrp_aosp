@@ -234,7 +234,7 @@
     <remove-project name="platform/packages/apps/QuickAccessWallet"/>
     <remove-project name="platform/packages/apps/QuickSearchBox"/>
     <remove-project name="platform/packages/apps/SafetyRegulatoryInfo"/>
-    <remove-project name="platform/packages/apps/SampleLocationAttribution"/>
+    <remove-projectGitHub name="platform/packages/apps/SampleLocationAttribution"/>
     <remove-project name="platform/packages/apps/SecureElement"/>
     <remove-project name="platform/packages/apps/SoundRecorder"/>
     <remove-project name="platform/packages/apps/SpareParts"/>
@@ -346,7 +346,7 @@
     <remove-project name="platform/tools/loganalysis"/>
     <remove-project name="platform/tools/motodev"/>
     <remove-project name="platform/tools/repohooks"/>
-    <remove-project name="platform/tools/studio/cloud"/>
+    <remove-project GitHubname="platform/tools/studio/cloud"/>
     <remove-project name="platform/tools/swt"/>
     <remove-project name="platform/tools/tradefederation"/>
     <remove-project name="platform/tools/tradefederation/contrib"/>
